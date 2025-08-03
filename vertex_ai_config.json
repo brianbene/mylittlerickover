@@ -1,0 +1,12 @@
+{
+  "project_id": "mylittlerickover-prod",
+  "region": "us-central1",
+  "storage_path": "gs://mylittlerickover-prod-nuclear-corpus/nuclear_corpus_20250801_133249.jsonl",
+  "bucket_name": "mylittlerickover-prod-nuclear-corpus",
+  "upload_time": "2025-08-01T13:32:49",
+  "num_documents": 400,
+  "num_chunks": 7053,
+  "deployment_type": "cloud_storage",
+  "endpoint_id": "temp-endpoint-id",
+  "deployed_index_id": "temp-index-id"
+}
